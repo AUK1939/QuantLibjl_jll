@@ -1,0 +1,9 @@
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b6ebbefac8f280e381164c612503b9d9cbaf04e"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "ce9e081a531904907ab188e649fbbf8a3fcb29d36df842be9bff7d6e1fc9be4a"
+    url = "https://github.com/AUK1939/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
