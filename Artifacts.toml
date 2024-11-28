@@ -27,3 +27,23 @@ os = "windows"
     [[QuantLibjl.download]]
     sha256 = "43f655d6d9861e15bdf4b9c1f8eabcdbead18b8299a7be61f2ac238fe3712116"
     url = "https://github.com/AUK1939/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1b8947c8e981600e0bfda228abb65e48175e3b0d"
+julia_version = "1.11.1"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "c7f18c7d7cc870ec9e358d4136c164ca54abebea533c36e38ad4b8402870a619"
+    url = "https://github.com/AUK1939/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.1+0/QuantLibjl.v1.0.1.x86_64-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4f7bed0610e884afb77850c7a7b50a904424274d"
+julia_version = "1.11.1"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "43f655d6d9861e15bdf4b9c1f8eabcdbead18b8299a7be61f2ac238fe3712116"
+    url = "https://github.com/AUK1939/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.1+0/QuantLibjl.v1.0.1.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
